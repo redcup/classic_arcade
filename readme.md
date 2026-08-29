@@ -1,5 +1,3 @@
-readme_content = """# Retro Arcade Collection: Pure Python Edition
-
 A collection of classic arcade games built entirely in Python and Pygame.
 
 ### The "No-Asset" Engineering Feat
@@ -76,7 +74,3 @@ Both games include a headless/automated self-test mode to verify that the logic 
 
 ## License
 This project is free to use and modify for personal and educational purposes.
-"""
-
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(readme_content)
