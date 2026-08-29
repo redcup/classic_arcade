@@ -1,4 +1,4 @@
-A collection of classic arcade games built entirely in Python and Pygame.
+A collection of classic arcade games built entirely in Python and Pygame - primarily vibe coded using Qwen 3.8 27b
 
 ### The "No-Asset" Engineering Feat
 The most unique feature of this project is that no external asset files (images, sounds, or music) are required. 
